@@ -4,7 +4,7 @@
 
 点击读取按钮之后会打开手机默认的文件浏览器
 
-![image](https://github.com/1938316175/FileT/blob/master/image/1.jpg)
+![image](https://github.com/1938316175/FileT/blob/master/image/4.png)
 
 选择文件
 
